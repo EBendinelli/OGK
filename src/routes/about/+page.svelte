@@ -11,7 +11,7 @@
 	</p>
 
 	<p>
-		There is absolutely nothing smart about that site, no machine learning, no AI, it's just a bunch of very Ottolenghi vegetables, pulses, carbs, sauces and nothing more that just some randomisation. Code is open source and you're welcome suggest ingredient or changes to the logic of how a recipe is generated on <a href="">Github</a>.
+		There is absolutely nothing smart about that site, no machine learning, no AI, it's just a bunch of very Ottolenghi vegetables, pulses, carbs, sauces and nothing more that just some randomisation. Code is open source and you're welcome suggest ingredient or changes to the logic of how a recipe is generated on <a href="https://github.com/EBendinelli/OGK">Github</a>.
 	</p>
 
 	<p class=small-prints>

@@ -8,7 +8,7 @@
 
 <header>
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
+		<a href="https://github.com/EBendinelli/OGK">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
