@@ -1,5 +1,4 @@
 <script>
-	import logo from '$lib/images/svelte-logo.svg';
 	import github from '$lib/images/github.svg';
 	let siteName = 'OTTOLENGHI GENERATIVE KITCHEN'; 
 	let subTitle = 'RANDOMLY GENERATED OTTOLENGHI RECIPES'; 
