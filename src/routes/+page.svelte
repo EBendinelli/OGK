@@ -143,13 +143,14 @@
 			recipeCarb =  qualifier[Math.floor(Math.random() * qualifier.length)] + ' ' + recipeCarb;
 		}
 
+		let toppingConnect = (recipeConnector == "With") ? 'And' : 'With';
 		let recipeTopping =  topping[Math.floor(Math.random() * topping.length)];
 
 		//Final recipe
 		if (Math.random() < 0.5){
-			recipeName =  recipeVeggie + ' ' + recipeConnector + ' ' +  recipeCarb +  ' With ' + recipeTopping;
+			recipeName =  recipeVeggie + ' ' + recipeConnector + ' ' +  recipeCarb +  ' ' + toppingConnect + ' ' + recipeTopping;
 		}else{
-			recipeName =  recipeVeggie + ' ' + recipeConnector + ' ' + recipeSideVeggie + ' With ' + recipeTopping;
+			recipeName =  recipeVeggie + ' ' + recipeConnector + ' ' + recipeSideVeggie + ' ' + toppingConnect + ' ' + recipeTopping;
 		}
 	}
 
